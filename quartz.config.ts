@@ -1,4 +1,4 @@
-yimport { QuartzConfig } from "./quartz/cfg"
+import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "MessyThoughts",
+    pageTitle: "Messy Thoughts",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
