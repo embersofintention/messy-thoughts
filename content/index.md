@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"2025-09-06T12:14:28.973-04:00","modified":"2025-09-24T15:18:50.562-04:00","cssclasses":"cards"}
+{"publish":true,"created":"2025-09-06T12:14:28.973-04:00","modified":"2025-09-24T15:25:42.430-04:00","cssclasses":"cards"}
 ---
 
 
-# ✏️hi✒️
+# ✏️🖍️hi✒️🖍️
 Click any sketch to see its page
 | Picture of the Day                     | Date                                                | About the Day |
 | -------------------------------------- | --------------------------------------------------- | ------------- |
