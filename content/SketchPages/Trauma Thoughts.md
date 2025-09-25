@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-24T14:56:35.866-04:00","modified":"2025-09-24T14:58:36.814-04:00","cssclasses":"cards"}
+{"publish":true,"created":"2025-09-23","modified":"2025-09-25T15:24:48.655-04:00","cssclasses":"cards"}
 ---
 
 
@@ -12,7 +12,7 @@ img:: ![[attachments/1758675118904.jpg]]
 Trauma Thoughts
 
 ---
-#journal
+#sketches
 
 
 

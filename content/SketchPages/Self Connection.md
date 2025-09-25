@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-24T22:22:25.908-04:00","modified":"2025-09-24T22:24:01.856-04:00","cssclasses":"cards"}
+{"publish":true,"created":"2025-09-24","modified":"2025-09-25T15:24:30.787-04:00","cssclasses":"cards"}
 ---
 
 
@@ -14,7 +14,7 @@ img:: ![[attachments/1758766809412.jpg]]
 It's hard sometimes :/  
 
 ---
-#journal
+#sketches
 
 
 
