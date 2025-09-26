@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2025-09-25T15:12:20.927-04:00","modified":"2025-09-26T15:06:31.655-04:00","cssclasses":"cards"}
+{"publish":true,"created":"2025-09-25T15:12:20.927-04:00","modified":"2025-09-26T18:15:14.505-04:00","cssclasses":"cards"}
 ---
 
 
 
-Click an image below to enlarge, or subject link to view a page with some thoughts
+Click an image below to enlarge, or subject link to view its post (some may have thoughts included)
 
 
-
+✏️
 ## ✏️The Sketchbook:
 | Preview                                 | Link                                                                                                               |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
