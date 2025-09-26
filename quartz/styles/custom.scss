@@ -1,3 +1,12 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+
+// hide page title
+.hide-title .page-title {
+    display: none;
+}
+
+
+
