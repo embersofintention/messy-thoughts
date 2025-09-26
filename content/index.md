@@ -1,40 +1,30 @@
 ---
-{"publish":true,"created":"2025-09-06T12:14:28.973-04:00","modified":"2025-09-25T16:27:52.020-04:00","cssclasses":""}
+{"publish":true,"created":"2025-09-25T15:12:20.927-04:00","modified":"2025-09-25T20:08:17.289-04:00","cssclasses":"pen-purple page-white"}
 ---
 
 
-# ✏️🖍️hi✒️🖍️
-Click an image below to view, or just hover over it to preview the page.  
 
-(Content posted and managed directly from my phone. Pretty handy!)
-
-
-
-| Sketch                                  | subject                                                                  |
-| --------------------------------------- | ------------------------------------------------------------------------ |
-| ![[attachments/1758766809412.jpg\|250]] | [[SketchPages/Self Connection\|Self Connection]] (September 24, 2025) |
-| ![[attachments/1758675118904.jpg\|250]] | [[SketchPages/Trauma Thoughts\|Trauma Thoughts]] (September 23, 2025) |
-| ![](\-)                                 | [[SketchPages/Untitled\|Untitled]] (\-)                               |
+Click an image below to enlarge, or subject link to view a page with some thoughts
 
 
 
 
-#sketches
+| Sketch                                  | subject                                                                                        |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| ![](\-)                                 | [[index_old\|index_old]] (\-)                                                               |
+| ![[attachments/1758675235466.jpg\|250]] | [[SketchPages/Trauma Thoughts pt 2\|Trauma Thoughts pt 2]] (September 23, 2025)             |
+| ![[attachments/1758675118904.jpg\|250]] | [[SketchPages/Trauma Thoughts pt 1\|Trauma Thoughts pt 1]] (September 23, 2025)             |
+| ![[attachments/1758766809412.jpg\|250]] | [[SketchPages/Self Connection Challenges\|Self Connection Challenges]] (September 24, 2025) |
 
 
-
-
----
 
 
 
 
 
 ---
-| Sketch | Thing | Date |
-| ------ | ----- | ---- |
-
-
+## Other fun links...
+* Coming soon
 
 
 ---
