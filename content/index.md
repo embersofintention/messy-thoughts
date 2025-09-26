@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-25T15:12:20.927-04:00","modified":"2025-09-26T14:53:34.003-04:00","cssclasses":"pen-purple page-white cards"}
+{"publish":true,"created":"2025-09-25T15:12:20.927-04:00","modified":"2025-09-26T15:01:11.727-04:00","cssclasses":"cards"}
 ---
 
 
@@ -8,8 +8,8 @@ Click an image below to enlarge, or subject link to view a page with some though
 
 
 
-
-| Sketch                                  | subject                                                                                                            |
+## The Sketchbook:
+| Preview                                 | Link                                                                                                               |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | ![[attachments/1758890140406.jpg\|250]] | [[SketchPages/Understanding avoidance thoughts\|Understanding avoidance thoughts]] (September 18, 2025)         |
 | ![[attachments/1758890073836.jpg\|250]] | [[SketchPages/Brain explosions\|Brain explosions]] (September 18, 2025)                                         |
