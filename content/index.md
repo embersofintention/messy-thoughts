@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-25T15:12:20.927-04:00","modified":"2025-09-26T15:05:31.931-04:00","cssclasses":"cards"}
+{"publish":true,"created":"2025-09-25T15:12:20.927-04:00","modified":"2025-09-26T15:06:31.655-04:00","cssclasses":"cards"}
 ---
 
 
@@ -8,7 +8,7 @@ Click an image below to enlarge, or subject link to view a page with some though
 
 
 
-## The Sketchbook:
+## ✏️The Sketchbook:
 | Preview                                 | Link                                                                                                               |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | ![[attachments/1758890140406.jpg\|250]] | [[SketchPages/Understanding avoidance thoughts\|Understanding avoidance thoughts]] (September 18, 2025)         |
