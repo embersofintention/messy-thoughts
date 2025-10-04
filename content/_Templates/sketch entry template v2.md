@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-25T14:40:51.667-04:00","modified":"2025-09-26T15:03:56.387-04:00","tags":["sketches"],"cssclasses":""}
+{"publish":true,"created":"2025-10-03T21:50:44.407-04:00","modified":"2025-10-04T15:34:08.944-04:00","tags":["sketches"],"cssclasses":""}
 ---
 
 
