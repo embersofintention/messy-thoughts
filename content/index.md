@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-03T21:50:44.744-04:00","modified":"2025-10-04T15:52:29.385-04:00","cssclasses":"hide-title cards"}
+{"publish":true,"created":"2025-10-03T21:50:44.744-04:00","modified":"2025-10-04T15:56:33.046-04:00","cssclasses":"hide-title cards"}
 ---
 
 
@@ -7,6 +7,7 @@
 Click an image below to enlarge, or subject link to view its post (some may have thoughts included)
 
 ## ✏️
+I gotta add the rest of the sketch pages ok but enjoy these for now yay
 
 
 
