@@ -1,23 +1,23 @@
 ---
-{"publish":true,"created":"2025-10-03T21:50:44.744-04:00","modified":"2025-10-04T15:40:35.119-04:00","cssclasses":"hide-title cards"}
+{"publish":true,"created":"2025-10-03T21:50:44.744-04:00","modified":"2025-10-04T15:52:29.385-04:00","cssclasses":"hide-title cards"}
 ---
 
 
 
 Click an image below to enlarge, or subject link to view its post (some may have thoughts included)
 
-## ✏️The Sketchbook:o
+## ✏️
 
 
 
 # The Visual Metaphors Used 
 The concepts and ideas that are used throughout these pages to visually depict much of this overall mental process.
 
-| Thumbnail                                               | About                                                                                                                               |
-| ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| ![[attachments/Pasted image 20251004151929.png\|200]]   | [[Concepts and Ideas/1 - Ralien WIP\|1 - Ralien WIP]] \| "Ralien" - a self representation                                        |
-| ![[attachments/ITS THE WHIMSY SCOUNDRELS 4.jpg\|200]]   | [[Concepts and Ideas/2 - Rapscalliens WIP\|2 - Rapscalliens WIP]] \| Rapscalliens - Thoughts and Emotions Visualized             |
-| ![[attachments/ptsd - The Fantastic Neighbor.png\|200]] | [[Concepts and Ideas/The Fantastic Neighbors WIP\|The Fantastic Neighbors WIP]] \| Trauma Thoughts, or the "Fantastic Neighbors" |
+| Thumbnail                                                       | About                                                                                                                               |
+| --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| ![[attachments/Pasted image 20251004151929.png\|200]]           | [[Concepts and Ideas/1 - Ralien WIP\|1 - Ralien WIP]] \| "Ralien" - a self representation                                        |
+| ![[attachments/2501 - rapscallien stickers 07 blurry.png\|200]] | [[Concepts and Ideas/2 - Rapscalliens WIP\|2 - Rapscalliens WIP]] \| Rapscalliens - Thoughts and Emotions Visualized             |
+| ![[attachments/ptsd - The Fantastic Neighbor.png\|200]]         | [[Concepts and Ideas/The Fantastic Neighbors WIP\|The Fantastic Neighbors WIP]] \| Trauma Thoughts, or the "Fantastic Neighbors" |
 
 
 
